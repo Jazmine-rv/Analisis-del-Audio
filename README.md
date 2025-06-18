@@ -27,3 +27,4 @@ Este trabajo práctico consiste en analizar y procesar un archivo de audio (`Ana
 - `AnalisisTextos_rsampled.txt`: Mediainfo del archivo de audio resampleado.
 - `AnalisisAudio.py`: Script para el análisis y procesamiento.
 - `README.md`: Archivo con la descripción y guía.
+- `Análisis del Audio.pdf`: Informe del trabajo.
